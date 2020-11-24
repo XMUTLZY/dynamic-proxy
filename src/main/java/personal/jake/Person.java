@@ -1,4 +1,4 @@
-package personal.jake.STATIC;
+package personal.jake;
 
 /**
  * @author jake.lin
@@ -6,4 +6,5 @@ package personal.jake.STATIC;
  */
 public interface Person {
     void say();
+    void run();
 }

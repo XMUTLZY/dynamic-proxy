@@ -1,4 +1,4 @@
-package personal.jake.STATIC;
+package personal.jake;
 
 /**
  * @author jake.lin
@@ -11,5 +11,10 @@ public class Girl implements Person {
     @Override
     public void say() {
         System.out.println("hello, i am girl");
+    }
+
+    @Override
+    public void run() {
+        System.out.println("girl run");
     }
 }

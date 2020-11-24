@@ -1,5 +1,8 @@
 package personal.jake.STATIC;
 
+import personal.jake.Boy;
+import personal.jake.Girl;
+
 /**
  * @author jake.lin
  * @date 2020/11/24
